@@ -1,6 +1,3 @@
-
-package computer.information.highway;
-
 import java.util.Random;
 
 public class ComputerInformationHighway {
